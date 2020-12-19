@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4080" started-at="2020-10-12T09:26:36Z" finished-at="2020-10-12T09:26:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4080" started-at="2020-10-12T09:26:36Z" finished-at="2020-10-12T09:26:40Z">
+      <class name="com.reqres.in.DeSerialize_JSON_Array_to_List">
+        <test-method status="PASS" signature="JsonPathUsage()[pri:0, instance:com.reqres.in.DeSerialize_JSON_Array_to_List@643b1d11]" name="JsonPathUsage" duration-ms="4059" started-at="2020-10-12T14:56:36Z" finished-at="2020-10-12T14:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JsonPathUsage -->
+      </class> <!-- com.reqres.in.DeSerialize_JSON_Array_to_List -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
